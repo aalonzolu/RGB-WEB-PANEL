@@ -8,7 +8,7 @@ $ cd RGB-WEB-PANEL
 $ node index.js
 ```
 ### Diagrama
-![IMG demo](https://cdn.rawgit.com/andyalonzo/Pianana/master/pianana.svg)
+![IMG demo](https://cdn.rawgit.com/andyalonzo/RGB-WEB-PANEL/master/diagrama.svg)
 License
 ----
 GPL v3
