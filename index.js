@@ -38,6 +38,7 @@ board.on("ready", function() {
 
 
 function handler (req, res) {
+  console.log(req.url);
   fs.readFile(__dirname + '/index.html',
   function (err, data) {
     if (err) {

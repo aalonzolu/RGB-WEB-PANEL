@@ -3,7 +3,12 @@ Controlar LEDs desde un panel web.
 
 ### Ejemplo de uso
 ```sh
-$ git clone https://github.com/andyalonzo/arduino-web-panel.git
-$ cd LED
-$ node led.js
-# RGB-WEB-PANEL
+$ git clone https://github.com/andyalonzo/RGB-WEB-PANEL.git
+$ cd RGB-WEB-PANEL
+$ node index.js
+```
+### Diagrama
+![IMG demo](https://cdn.rawgit.com/andyalonzo/Pianana/master/pianana.svg)
+License
+----
+GPL v3
